@@ -8,7 +8,7 @@ _I'm ordinary person trying to improve myself in Coding and Data Structures and 
 
 
  📫 Connect me on 
-This site was built using [Linkedin](https://www.linkedin.com/in/uzma-waheed-1366aa5b/)
+           [Linkedin](https://www.linkedin.com/in/uzma-waheed-1366aa5b/)
 
 
 <!--

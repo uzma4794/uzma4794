@@ -1,6 +1,14 @@
-##About me
 
-Hello, I'm Uzma Waheed, mother of two baby boys also working as Lecturer in the Department of Computer Science and Information Technology in Govt. Sadiq College Women University, Bahawalpur, Punjab. 
+### About me
+
+Hello, I'm Uzma Waheed, mother of two baby boys also working as Lecturer in the Department of Computer Science and Information Technology in Govt. Sadiq College Women University, Bahawalpur, Punjab.
+
+
+_I'm ordinary person trying to improve myself in Coding and Data Structures and Analysis._
+
+
+ 📫 Connect me on 
+This site was built using [Linkedin](https://www.linkedin.com/in/uzma-waheed-1366aa5b/)
 
 
 <!--

@@ -1,4 +1,7 @@
-Hello I'm Uzma Waheed, mother of two baby boys also working as Lecturer in the Department of Computer Science and Information Technology in Govt. Sadiq College Women University. 
+##About me
+
+Hello, I'm Uzma Waheed, mother of two baby boys also working as Lecturer in the Department of Computer Science and Information Technology in Govt. Sadiq College Women University, Bahawalpur, Punjab. 
+
 
 <!--
 **uzma4794/uzma4794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

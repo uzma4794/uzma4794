@@ -5,7 +5,7 @@ Hello, I'm Uzma Waheed, mother of two baby boys also working as Lecturer in the 
 
 
 _I'm ordinary person trying to improve myself in Coding and Data Structures and Analysis._
- I'm currently working as Moderator in the course of Data Structures and Analysis taught by Trainers 
+ I'm currently working as Trainer on iCodeGuru in the course of Data Structures For Begineers. here is the [link](https://docs.google.com/spreadsheets/d/1dkKhDpT4YwNppVP01Xr4CZ-ijnSrcAuhzI1pQtrhmec/edit?gid=1151484250#gid=1151484250) 
 
 
  📫 Connect me on 
